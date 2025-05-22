@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @NirvanaPhX
+/src/backend/database.py      @NirvanaPhX
+/src/backend/routers/auth.py  @NirvanaPhX
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @NirvanaPhX
